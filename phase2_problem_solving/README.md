@@ -7,15 +7,15 @@ Each project reflects a specific use case relevant to astronaut health, performa
 
 ## Mini-Projects
 
-### [Project 1: Fever Alert System](./project1_fever_alert_system/fever_alert_system.ipynb)
+### [Project 1: Fever Alert System](./project1_fever_alert/fever_alert.ipynb)
 Detects elevated body temperatures using medical logs. Flags possible fever events above 37.8°C and summarizes frequency by crew member.
 
-📁 `project1_fever_alert_system/`  
+📁 `project1_fever_alert/`  
 📄 Data: `temp_log.csv`
 
 ---
 
-### [Project 2: Circadian Rhythm Drift Tracker](./project2_circadian_drift/drift_monitor.ipynb)
+### [Project 2: Circadian Rhythm Drift Tracker](./project2_circadian_drift/circadian_drift.ipynb)
 Monitors astronaut sleep start times over a multi-day mission. Flags significant circadian misalignment if sleep shifts by more than 2.0 hours from baseline.
 
 📁 `project2_circadian_drift/`  
@@ -31,7 +31,7 @@ Analyzes daily CO₂ levels for each crew member. Flags elevated levels above 10
 
 ---
 
-### [Project 4: Caloric Intake vs. Burned Tracker](./project4_caloric_balance_tracker/caloric_tracker.ipynb)
+### [Project 4: Caloric Intake vs. Burned Tracker](./project4_caloric_balance_tracker/caloric_balance.ipynb)
 Calculates daily energy balance (calories in vs. calories out) for each astronaut. Flags prolonged deficits and summarizes net caloric status over time.
 
 📁 `project4_caloric_balance_tracker/`  
@@ -39,7 +39,7 @@ Calculates daily energy balance (calories in vs. calories out) for each astronau
 
 ---
 
-### [Project 5: Contagion Risk Mapper](./project5_contagion_risk_mapper/contagion_mapper.ipynb)
+### [Project 5: Contagion Risk Mapper](./project5_contagion_risk_mapper/contagion_risk_mapper.ipynb)
 Simulates infectious disease spread using daily contact logs and symptom onset. Identifies at-risk crew members based on contact in the 3 days prior to a symptomatic case.
 
 📁 `project5_contagion_risk_mapper/`  
