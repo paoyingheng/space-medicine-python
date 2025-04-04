@@ -47,7 +47,7 @@ Simulates infectious disease spread using daily contact logs and symptom onset. 
 
 ---
 
-## 💡 Key Skills Developed
+## Key skills developed
 
 - Data filtering, grouping, and aggregation using pandas
 - Conditional logic and threshold-based flagging
@@ -57,7 +57,7 @@ Simulates infectious disease spread using daily contact logs and symptom onset. 
 
 ---
 
-## 🧭 What’s Next?
+## 🧭 What’s next?
 
 Head to [Phase 3: Modeling & Simulation](../phase3_modeling_applications/)  
 to turn these insights into full dynamic models and mission tools.
