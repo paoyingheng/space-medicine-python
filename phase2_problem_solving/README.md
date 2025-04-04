@@ -31,7 +31,7 @@ Analyzes daily CO₂ levels for each crew member. Flags elevated levels above 10
 
 ---
 
-### [Project 4: Caloric Intake vs. Burned Tracker](./project4_caloric_balance_tracker/caloric_balance.ipynb)
+### [Project 4: Caloric Balance Tracker](./project4_caloric_balance_tracker/caloric_balance.ipynb)
 Calculates daily energy balance (calories in vs. calories out) for each astronaut. Flags prolonged deficits and summarizes net caloric status over time.
 
 📁 `project4_caloric_balance_tracker/`  
