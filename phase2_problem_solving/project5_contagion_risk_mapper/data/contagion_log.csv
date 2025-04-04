@@ -1,0 +1,85 @@
+date,crew_member,contact_with,symptoms
+2025-03-20,Alice Carter,Ben O'Hara,No
+2025-03-20,Ben O'Hara,Alice Carter,No
+2025-03-20,Jonas Müller,Nina Patel,No
+2025-03-20,Nina Patel,Leo Zhang,No
+2025-03-20,Leo Zhang,Nina Patel,No
+2025-03-20,Emma López,,No
+2025-03-21,Alice Carter,Ben O'Hara,No
+2025-03-21,Ben O'Hara,Nina Patel,No
+2025-03-21,Jonas Müller,Emma López,No
+2025-03-21,Nina Patel,Jonas Müller,No
+2025-03-21,Leo Zhang,Emma López,No
+2025-03-21,Emma López,Leo Zhang,No
+2025-03-22,Alice Carter,Leo Zhang,No
+2025-03-22,Ben O'Hara,Alice Carter,No
+2025-03-22,Jonas Müller,Emma López,No
+2025-03-22,Nina Patel,Emma López,No
+2025-03-22,Leo Zhang,Alice Carter,No
+2025-03-22,Emma López,Leo Zhang,No
+2025-03-23,Alice Carter,,No
+2025-03-23,Ben O'Hara,Emma López,No
+2025-03-23,Jonas Müller,Leo Zhang,No
+2025-03-23,Nina Patel,Jonas Müller,No
+2025-03-23,Leo Zhang,Jonas Müller,No
+2025-03-23,Emma López,Ben O'Hara,No
+2025-03-24,Alice Carter,Jonas Müller,No
+2025-03-24,Ben O'Hara,Alice Carter,No
+2025-03-24,Jonas Müller,,No
+2025-03-24,Nina Patel,Alice Carter,No
+2025-03-24,Leo Zhang,Ben O'Hara,No
+2025-03-24,Emma López,Alice Carter,No
+2025-03-25,Alice Carter,Nina Patel,No
+2025-03-25,Ben O'Hara,Nina Patel,No
+2025-03-25,Jonas Müller,Alice Carter,No
+2025-03-25,Nina Patel,Jonas Müller,No
+2025-03-25,Leo Zhang,Ben O'Hara,No
+2025-03-25,Emma López,Ben O'Hara,No
+2025-03-26,Alice Carter,Leo Zhang,No
+2025-03-26,Ben O'Hara,Nina Patel,No
+2025-03-26,Jonas Müller,Ben O'Hara,No
+2025-03-26,Nina Patel,Emma López,No
+2025-03-26,Leo Zhang,,No
+2025-03-26,Emma López,Jonas Müller,No
+2025-03-27,Alice Carter,Leo Zhang,No
+2025-03-27,Ben O'Hara,Nina Patel,No
+2025-03-27,Jonas Müller,Ben O'Hara,No
+2025-03-27,Nina Patel,Leo Zhang,Yes
+2025-03-27,Leo Zhang,Alice Carter,No
+2025-03-27,Emma López,Alice Carter,Yes
+2025-03-28,Alice Carter,Leo Zhang,No
+2025-03-28,Ben O'Hara,Leo Zhang,No
+2025-03-28,Jonas Müller,Emma López,No
+2025-03-28,Nina Patel,Alice Carter,No
+2025-03-28,Leo Zhang,Jonas Müller,No
+2025-03-28,Emma López,Leo Zhang,No
+2025-03-29,Alice Carter,Leo Zhang,No
+2025-03-29,Ben O'Hara,,No
+2025-03-29,Jonas Müller,Ben O'Hara,No
+2025-03-29,Nina Patel,Emma López,No
+2025-03-29,Leo Zhang,Alice Carter,No
+2025-03-29,Emma López,Nina Patel,No
+2025-03-30,Alice Carter,Emma López,No
+2025-03-30,Ben O'Hara,,No
+2025-03-30,Jonas Müller,Leo Zhang,No
+2025-03-30,Nina Patel,Jonas Müller,No
+2025-03-30,Leo Zhang,Alice Carter,No
+2025-03-30,Emma López,Ben O'Hara,No
+2025-03-31,Alice Carter,Jonas Müller,No
+2025-03-31,Ben O'Hara,Emma López,No
+2025-03-31,Jonas Müller,Emma López,No
+2025-03-31,Nina Patel,Emma López,No
+2025-03-31,Leo Zhang,Emma López,No
+2025-03-31,Emma López,Ben O'Hara,No
+2025-04-01,Alice Carter,Nina Patel,No
+2025-04-01,Ben O'Hara,Nina Patel,No
+2025-04-01,Jonas Müller,Nina Patel,No
+2025-04-01,Nina Patel,Leo Zhang,No
+2025-04-01,Leo Zhang,,No
+2025-04-01,Emma López,Ben O'Hara,No
+2025-04-02,Alice Carter,Nina Patel,No
+2025-04-02,Ben O'Hara,Nina Patel,No
+2025-04-02,Jonas Müller,Leo Zhang,No
+2025-04-02,Nina Patel,,No
+2025-04-02,Leo Zhang,,No
+2025-04-02,Emma López,Nina Patel,No
