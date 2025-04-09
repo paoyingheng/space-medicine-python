@@ -1,4 +1,4 @@
-# Space-Medicine-Python
+# Python Tools for Space Medicine & Life Support Systems
 
 This repository is dedicated to applying Python for solving real-world problems in **space medicine**, **life support systems**, and **human factors** during space missions.
 
