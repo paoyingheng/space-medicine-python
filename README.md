@@ -13,41 +13,6 @@ As a medical microbiologist and ongoing Planetary Sciences MSc student, I’m co
 - Phase 3: Build a portfolio of realistic, risk-focused simulations relevant to long-duration spaceflight and planetary exploration
 
 
-
-## Directory Structure
-
-space-medicine-python/
-│
-├── phase1_basics/    
-│   ├── data/        
-│   └── python_recap_exercises.ipynb
-│
-├── phase2_problem_solving/           
-│   ├── phase2_overview.ipynb
-│   ├── project1_fever_alert/
-│   │   ├── data/
-│   │   └── fever_alert.ipynb
-│   ├── project2_circadian_drift/
-│   │   ├── data/
-│   │   └── circadian_drift.ipynb
-│   ├── project3_co2_tracker/
-│   │   ├── data/
-│   │   └── co2_tracker.ipynb
-│   ├── project4_caloric_balance_tracker/
-│   │   ├── data/
-│   │   └── caloric_balance.ipynb
-│   └── project5_contagion_risk_mapper/
-│       ├── data/
-│       └── contagion_risk_mapper.ipynb
-│
-├── phase3_modeling_applications/
-│   └── project1_eva_o2_simulator/
-│       └── eva_o2_simulator.ipynb
-│   └── (further plans)/
-│
-└── README.md                     # this file
-
-
 ## Next Steps
 
 - Incorporate radiative/biomedical modeling (e.g., space radiation, bone loss)
