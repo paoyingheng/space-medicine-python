@@ -17,12 +17,3 @@ As a medical microbiologist and ongoing Planetary Sciences MSc student, I’m co
 
 - Incorporate radiative/biomedical modeling (e.g., space radiation, bone loss)
 - Transition toward interactive dashboards or automation-ready tools
-
-
-
-## Author
-
-Hi, I'm Pao (Medical Microbiologist, Planetary Sciences MSc)  
-Combining clinical and environmental health experience to develop tools that support astronaut well-being, manage microbial risks, and contribute to planetary protection efforts.
-
-Feel free to explore, learn, and build alongside!
