@@ -13,7 +13,7 @@ Detects elevated body temperatures using medical logs. Flags possible fever even
 📁 `project1_fever_alert/`  
 📄 Data: `temp_log.csv`
 
----
+
 
 ### [Project 2: Circadian Rhythm Drift Tracker](./project2_circadian_drift/circadian_drift.ipynb)
 Monitors astronaut sleep start times over a multi-day mission. Flags significant circadian misalignment if sleep shifts by more than 2.0 hours from baseline.
@@ -21,7 +21,7 @@ Monitors astronaut sleep start times over a multi-day mission. Flags significant
 📁 `project2_circadian_drift/`  
 📄 Data: `sleep_log.csv`
 
----
+
 
 ### [Project 3: CO₂ Exposure Tracker](./project3_co2_tracker/co2_tracker.ipynb)
 Analyzes daily CO₂ levels for each crew member. Flags elevated levels above 1000 ppm (mild risk) and 2500 ppm (cognitive impairment risk). Plots trends and cumulative exposure.
@@ -29,7 +29,7 @@ Analyzes daily CO₂ levels for each crew member. Flags elevated levels above 10
 📁 `project3_co2_tracker/`  
 📄 Data: `co2_log.csv`
 
----
+
 
 ### [Project 4: Caloric Balance Tracker](./project4_caloric_balance_tracker/caloric_balance.ipynb)
 Calculates daily energy balance (calories in vs. calories out) for each astronaut. Flags prolonged deficits and summarizes net caloric status over time.
@@ -37,7 +37,7 @@ Calculates daily energy balance (calories in vs. calories out) for each astronau
 📁 `project4_caloric_balance_tracker/`  
 📄 Data: `caloric_balance_log.csv`
 
----
+
 
 ### [Project 5: Contagion Risk Mapper](./project5_contagion_risk_mapper/contagion_risk_mapper.ipynb)
 Simulates infectious disease spread using daily contact logs and symptom onset. Identifies at-risk crew members based on contact in the 3 days prior to a symptomatic case.
@@ -45,7 +45,7 @@ Simulates infectious disease spread using daily contact logs and symptom onset. 
 📁 `project5_contagion_risk_mapper/`  
 📄 Data: `contagion_log.csv`
 
----
+
 
 ## Key skills developed
 
@@ -55,10 +55,10 @@ Simulates infectious disease spread using daily contact logs and symptom onset. 
 - Plotting with matplotlib
 - Thinking critically about data in a mission operations context
 
----
+
 
 ## 🧭 What’s next?
 
-Head to [Phase 3: Modeling & Simulation](../phase3_modeling_applications/)  
+Head to [Phase 3: Modeling Applications](../phase3_modeling_applications/)  
 to turn these insights into full dynamic models and mission tools.
 
