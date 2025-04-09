@@ -8,9 +8,9 @@ As a medical microbiologist and ongoing Planetary Sciences MSc student, I’m co
 
 ## Project Objectives
 
-- Phase 1: Master Python fundamentals through meaningful, applied projects
-- Phase 2: Develop the ability to break down space-health-related problems into data analysis workflows
-- Phase 3: Build a portfolio of realistic, risk-focused simulations relevant to long-duration spaceflight and planetary exploration
+- Phase 1: Python fundamentals refresher - revisited core Python concepts through space health-themed exercises. Topics included variables, data types, lists, dictionaries, conditionals, loops, functions, and file handling. The goal was to rebuild confidence with basic Python syntax and logic in preparation for more advanced work.
+- Phase 2:  Problem solving with Python - focused on breaking down real-world problems in space medicine and life support systems into structured, code-based solutions. Emphasis on logic, data workflows, and practical thinking.
+- Phase 3: Modeling and simulation - developing small-scale models and simulations to explore challenges like oxygen use, CO₂ buildup, and crew health monitoring. These projects aim to bridge data with real mission scenarios and will later support more interactive or automated tools.
 
 
 ## Next Steps
