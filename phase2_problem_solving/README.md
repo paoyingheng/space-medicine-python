@@ -5,8 +5,6 @@ Each project reflects a specific use case relevant to astronaut health, performa
 
 ---
 
-## Mini-Projects
-
 ### [Project 1: Fever Alert System](./project1_fever_alert/fever_alert.ipynb)
 Detects elevated body temperatures using medical logs. Flags possible fever events above 37.8°C and summarizes frequency by crew member.
 
